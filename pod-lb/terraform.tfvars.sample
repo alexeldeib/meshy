@@ -1,0 +1,6 @@
+project_id = "play-242010"
+region_east = "us-east4"
+region_west = "us-central1"
+cf_account_id = "e1034970f5ddf46bf84b3c4016b0d45b"
+cf_zone_id = "a7a0231fdf9d442d424557c2dbd6c0d7"
+cf_api_key = "7df56dd53f878749e85b0203eaa0c8cfeca17"

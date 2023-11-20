@@ -1,0 +1,5 @@
+namespace: test
+resources:
+- ../base
+- deployment.yaml
+- frontend.yml

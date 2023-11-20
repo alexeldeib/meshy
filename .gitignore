@@ -1,0 +1,7 @@
+.terraform
+*.crt
+*.key
+kubeconfig*
+*.tfstate*
+terraform.tfvars
+tf.plan
